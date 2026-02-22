@@ -29,6 +29,8 @@ The final phase involved building an **"Awesome Dashboard"** in Power BI (`custo
 - **Demographic Slicers:** Interactive filtering by gender, age group, and location.
 - **Trend Analysis:** Visualizing purchasing frequency and category preferences.
 
+![Power BI Dashboard Preview](Screenshot%202026-02-23%20013725.png)
+
 ---
 
 ## 📂 Project Structure
